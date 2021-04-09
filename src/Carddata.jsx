@@ -1,9 +1,7 @@
 
 const Carddata = [
 	{
-		// imgsrc: {IMAGES.Burger},
 		imgsrc: '/images/burger.png',
-		// imgsrc:"http://codeskulptor-demos.commondatastorage.googleapis.com/GalaxyInvaders/alien_1_2.png",
 		title: " Chicken Burger",
 		
 
